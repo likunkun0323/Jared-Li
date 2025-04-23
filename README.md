@@ -19,14 +19,13 @@ I'm an undergraduate student diving deep into the fascinating world of **Artific
 
 🛠️ **Skills & Tools:**
 *   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-*   *(Add more relevant skills/tools here, e.g., TensorFlow, PyTorch, Scikit-learn)*
+*   *( familiar with PyTorch,have experince in training LLM,already learned main Reinforcement learning algorithms,VLA,basic Knowledge in NLP and CV )*
 
 🌟 **Featured Projects I've Explored:**
 *   nnunetv2
-*   yolov11
-*   Isaac Gym (assuming "leged gym" meant Isaac Gym, a common RL environment)
-*   RL_Mario
-*   GPT2
+*   yolo,ViT,CLIP and models related to CV
+*   Reinforcement Learning using OpenAI Gym and stable_baselines 3
+*   build GPT2 from scratch using Huggingface 
 
 📫 **How to reach me:**
 *   Email: [acaffwfl@gmail.com](mailto:acaffwfl@gmail.com)
